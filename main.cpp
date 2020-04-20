@@ -183,7 +183,7 @@ struct CarWash //2)
 3 things it can do:
     1) Turn on
     2) Turn off
-    3) Recieve calls
+    3) Receive calls
  */
 
 /*
@@ -299,17 +299,17 @@ struct CarWash //2)
  */
 
 /*
-10)
+10) House
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Door
+    2) Window
+    3) Roof
+    4) Backyard
+    5) Garage
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Being sold
+    2) Being bought 
+    3) Being renewed 
  */
 
 #include <iostream>
