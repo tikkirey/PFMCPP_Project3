@@ -173,59 +173,59 @@ struct CarWash //2)
 
 
 /*
-1)
+1) Cellphone
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Model name
+    2) Battery capacity
+    3) Screen size 
+    4) Color
+    5) Bluetooth
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Turn on
+    2) Turn off
+    3) Recieve calls
  */
 
 /*
-2)
+2) Guitar
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Model
+    2) Number of strings
+    3) Tremolo bar
+    4) Number of pickups
+    5) Color
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Go out of tune
+    2) Output signal
+    3) Change output volume
  */
 
 /*
-3)
+3) Human
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Name
+    2) Surname
+    3) SSN
+    4) Gender
+    5) Has children
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Run
+    2) Apply for a job
+    3) Sleep
  */
 
 /*
-4)
+4) Planet
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Type
+    2) Name
+    3) Weight
+    4) Rotating speed
+    5) Distance to closest star
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Form
+    2) Rotate
+    3) Form atmosphere 
  */
 
 /*
