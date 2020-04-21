@@ -229,87 +229,87 @@ struct CarWash //2)
  */
 
 /*
-5)
+5) Living module
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Number of sleeping capsules 
+    2) Temperature
+    3) Pressure 
+    4) % of O2
+    5) Number of humans inside
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Regulate O2 level
+    2) Regulate temperature
+    3) Regulate pressure
  */
 
 /*
-6)
+6) Telescope
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Angular resolution
+    2) Magnefication
+    3) Height 
+    4) Diameter
+    5) Number of lenses
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Change sight
+    2) Zoom in
+    3) Zoom out
  */
 
 /*
-7)
+7) Navigation computer
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Memory size
+    2) CPU 
+    3) Number of cores
+    4) Weight
+    5) Internal battery size in mA
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Calculate current orbit
+    2) Calculate distance to sun
+    3) Calculate station angle relatively to Earth
  */
 
 /*
-8)
+8) Mobile servicing system
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Number of spacesuits
+    2) Internal space size in cubic meters
+    3) Number of exits to space
+    4) Pressure
+    5) Number of austronauts inside
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Open latches
+    2) Regulate pressure
+    3) Close latches
  */
 
 /*
-9)
+9) Robotic arm
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Lenght
+    2) Number of joints
+    3) End effector diameter
+    4) Discreteness of movement in degrees
+    5) Speed of movement 
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Repair outer shield
+    2) Receive cargo
+    3) Move 
  */
 
 /*
-10) House
+10) Space station
 5 properties:
-    1) Door
-    2) Window
-    3) Roof
-    4) Backyard
-    5) Garage
+    1) Living module
+    2) Telescope
+    3) Navigation computer
+    4) Mobile servicing system
+    5) Robotic arm
 3 things it can do:
-    1) Being sold
-    2) Being bought 
-    3) Being renewed 
+    1) Change orbit
+    2) Service outer shield  
+    3) Change living module temperature 
  */
 
 #include <iostream>
